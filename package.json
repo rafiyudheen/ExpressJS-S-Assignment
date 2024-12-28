@@ -1,0 +1,24 @@
+{
+  "name": "expressjs-s-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafiyudheen/ExpressJS-S-Assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafiyudheen/ExpressJS-S-Assignment/issues"
+  },
+  "homepage": "https://github.com/rafiyudheen/ExpressJS-S-Assignment#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
